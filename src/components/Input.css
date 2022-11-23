@@ -1,0 +1,12 @@
+.input{
+    display: flex;
+    height: 4em;
+    flex: 1;
+    background-color: #2b2a2a;
+    outline: 1px solid #888;
+    color: #fff;justify-content: flex-end;
+    padding: 0.5em;
+    font-size: 2em;
+    font-weight: bold;
+    align-items: center;
+}
